@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\lab3sh\lab3sh\bin\Debug\lab3sh.exe
+C:\Users\Admin\RiderProjects\lab3sh\lab3sh\bin\Debug\lab3sh.pdb
+C:\Users\Admin\RiderProjects\lab3sh\lab3sh\obj\Debug\lab3sh.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\lab3sh\lab3sh\obj\Debug\lab3sh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\lab3sh\lab3sh\obj\Debug\lab3sh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\lab3sh\lab3sh\obj\Debug\lab3sh.exe
+C:\Users\Admin\RiderProjects\lab3sh\lab3sh\obj\Debug\lab3sh.pdb

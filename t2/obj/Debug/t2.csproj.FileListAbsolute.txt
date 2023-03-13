@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\lab3sh\t2\obj\Debug\t2.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\lab3sh\t2\obj\Debug\t2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\lab3sh\t2\obj\Debug\t2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\lab3sh\t2\bin\Debug\t2.exe
+C:\Users\Admin\RiderProjects\lab3sh\t2\bin\Debug\t2.pdb
+C:\Users\Admin\RiderProjects\lab3sh\t2\obj\Debug\t2.exe
+C:\Users\Admin\RiderProjects\lab3sh\t2\obj\Debug\t2.pdb
